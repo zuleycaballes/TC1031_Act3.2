@@ -13,6 +13,10 @@
 
 using namespace std;
 
+// Para compilar y ejecutar en la terminal:
+// g++ main.cpp priority_queue.cpp -o main
+// ./main
+
 // Función para validar la entrada del usuario
 int getValidInteger() {
     int num;
